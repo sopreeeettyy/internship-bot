@@ -9,7 +9,7 @@ theme: /
         inlineButtons:
             {text: "Логи", url: ""},
             {text: "Чат-бот", url: "https://telegram.me/No1mad1Bot"},
-            {text: "Блок-схема, тренировочные фразы и т.д", url: "https://met-mother.ru/season-1/episode-9/"},
+            {text: "Блок-схема, тренировочные фразы и т.д", url: "https://www.figma.com/board/H5vFjabULhexaG3jzTHKOb/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B8-%D0%9C%D0%A4%D0%A6?node-id=47-523&t=lb71pWj8mtwO2svJ-1"},
             {text: "Сценарий", url: "https://docs.google.com/document/d/1qYrhRSrcMGrD_cAX1Pcl--H_21E7LuVNoNhswtoVbdc/edit?tab=t.0"},
             {text: "Технические вопросы", url: "https://docs.google.com/document/d/1Yzyu6whIKOfe8hsgDWWbEnq8X_poHGo59QUg1dIXJMM/edit?tab=t.0"},
             {text: "Заметки", url: "https://docs.google.com/document/d/1HhrQ9WvGpk-zAcR4UQAJqMjfGycvhzKRQm-CGmgugdg/edit?tab=t.o0a8moq2og4h"},
